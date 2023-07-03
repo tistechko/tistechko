@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @tistechko
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Natasha
+- 👀 Passionate about data. I’m interested in deriving knowledgeable insights from your data and helping create impact products to solve real business problems
+- 🌱 I’m currently learning data technologies
 
 <!---
 tistechko/tistechko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
