@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Natasha
-- 👀 Passionate about data. I’m interested in deriving knowledgeable insights from your data and helping create impact products to solve real business problems
-- 🌱 I’m currently learning data technologies
+- 👋 Hi, I’m Natalya
+- 👀 I am a data analyst with a passion for data visualization and a strong background in Power BI. I specialize in transforming raw data into actionable insights through interactive dashboards, helping businesses make informed, data-driven decisions. 
 
 <!---
 tistechko/tistechko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
